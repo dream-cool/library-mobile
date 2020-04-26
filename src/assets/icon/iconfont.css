@@ -1,0 +1,33 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1584184135821'); /* IE9 */
+  src: url('iconfont.eot?t=1584184135821#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQ0AAsAAAAACUwAAAPmAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqFYIRaATYCJAMUCwwABCAFhG0HUxvxBxHVmz3JvkrgqUhedqOdoTnGONCaWdXRwwo6rPb9zy8iEiLBM/Hw/Rq/c5/sF1fw7tPxRBRNhEYkQckeIg2qaSKJhrYD6/IwyIpSenJiBJWERO83935CBZvNiEryq409kCzkrldKXy4dST83JabkGkDG9Tr82268cQhdoK99DSTw7tK0uKrWvrg0TR0PWF07i1tr1SqWDhgKSLfSqiffAZ//wV5UXwF2BmuR/20C3ebpAE+6+YQAI4WxKBC3MtMTgVFKodQQQqe4KdlZxH1VZ7qb1nHP//34peAgqZmx8tQV1xTg/Hv/98Vc2S4XXRTmcDpw+8jYBSjE7VLDLd0wsAvWrfh6jmqpvk5JGqrdyPe578/bFpKzIVG3+Q+PkGSFaBiCXgp/NFj43m8jBN9HEBLf5xAy3xdZD0ZQqfndaPANEIsEfvULkyTEkvLh2dahPVI+OrzQvG8A7Dt0LZuo/P7JQIx3rrxLPxROO7TqmKS198v8R3S3aLSMRV8iAXnfhKfjAQjfecitvnS0by+cNpbYtjg7E44Tyx7mnHo4TlyktZWpUIxob5+ga4D2xxGG5tXCsCItFIMDrESauEgulrV2jEqll/iW4IdVQIs00mEoEmh1d1OdLbPKyYTfbt5K5CG4HKxiHSBLB0sOeDQGGX2sEFDoym4HOjqClP+X3XNCHv7V2VETaUEvd6lb/rjl/wtnkbtYSsjDl4vBNPnUsbjdXIg3QCBM61pf3GD0zG906octVm+RzQVXW+pTebE0kKDqM75e3jXmSlVH6tEvlV0JrtaFTW8x7vL06YOsoKCDnutG1XesugsuS/+4bexhDkv8gRLFPmMiFelJxhdLBC7xGxi9VZRr/1+4AIMnopLW9mRqabWWnuM5/W3gUwutTMvaANDO/VktvRtEsPHVgxDPb/PW2XPTKj4jv7r79lYBcMYfQEhh/lOYYEFR2YayFjnZZsim6vwAgqRUdOP/YRl2MoxoDI4kdBqLIekwB1mnVXTB70LV4zA0Oh2Bbjvc9/cYUaQrShe21REQBg1C0u8ZZIM20AV/DNW4O2gMBgzd+OdYnDi1H2ZyxRgKJhB9gYmpUpZaJkH0PeqmCDnJ9onPyNa4wXe8bPgOK+Qh1th3HYgoUEwl3BL3YVEQ1EwZxuKkIvXadVXZKzkxla2JKwyFBEqAyBdgxEhFueXFJPfz95DWKIS4JqVC+wwxy7QOfA4PQN8JKijlUsZb77SAEIqepzBSArekDhVmgIC6fFoGxYQj7eCrrblUKYUKnOlF5Q2kcxkYJ9RIkaNEjcbwkgmrb2vOyKbUxGGlRxm1P2b1fqsFAAA=') format('woff2'),
+  url('iconfont.woff?t=1584184135821') format('woff'),
+  url('iconfont.ttf?t=1584184135821') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1584184135821#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 30px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-cancel-like:before {
+  content: "\e8ad";
+}
+
+.icon-cancel-collect:before {
+  content: "\e8b9";
+}
+
+.icon-like:before {
+  content: "\e8c3";
+}
+
+.icon-collect:before {
+  content: "\e8c6";
+}
+
